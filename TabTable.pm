@@ -61,7 +61,7 @@ use Fcntl qw(O_WRONLY O_EXCL O_CREAT) ;
 
 use vars qw($SORT $JOIN $VERBOSE $TMPDIR $VERSION) ;
 
-$VERSION = "1.01" ;
+$VERSION = "1.02" ;
 
 $TMPDIR = "." ;
 $SORT = "/bin/sort" ;
